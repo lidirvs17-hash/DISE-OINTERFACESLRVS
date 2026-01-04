@@ -4,8 +4,9 @@
     --bg-light: #f9f9f9;
     --text-dark: #333333;
     --accent-blue: #0056b3;   
-    --accent-green: #2d5a27;  
-    --accent-orange: #ff8c00; 
+    --accent-green: #72ac6a;  
+    --accent-orange: #ff8c00;
+    --accent-light-purple: #d49edb; 
     --accent-gold: #b8860b;   
     --border-soft: #e0e0e0;
     --font-main: 'Segoe UI', system-ui, sans-serif;
@@ -155,7 +156,7 @@ header {
 .btn-orange { border: 2px solid var(--accent-orange); color: var(--accent-orange); }
 .btn-orange:hover { background: var(--accent-orange); color: white; }
 
-/* --- DETALLE SPLIT-SCREEN (CORREGIDO) --- */
+/* --- DETALLE SPLIT-SCREEN --- */
 
 .detail-layout {
     display: flex;          
